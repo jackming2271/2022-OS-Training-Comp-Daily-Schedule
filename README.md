@@ -17,4 +17,7 @@
  
 
 ## Day1
+今天投入的全部时间都在做 rustlings , 目前进度 50/84 , 明天争取搞定 rustlings  
+在完成 rustlings 的过程中, 发现对于 ?操作符 / 枚举类型 / 错误处理的部分有点遗忘, 有几个题有卡壳的情况  
+明天先快速过一遍 [Rust圣经](https://course.rs/basic/compound-type/enum.html) 然后再继续做
 
