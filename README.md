@@ -21,3 +21,7 @@
 在完成 rustlings 的过程中, 发现对于 ?操作符 / 枚举类型 / 错误处理的部分有点遗忘, 有几个题有卡壳的情况  
 明天先快速过一遍 [Rust圣经](https://course.rs/basic/compound-type/enum.html) 然后再继续做
 
+## Day2
+今天进度: rustlings 64/84 , 发现rustlings后面的内容很多不熟悉 (模板 / 共享指针 等) 
+还是和昨天一样, 配合着rust圣经一边看一边做题, 最后20道加油
+
