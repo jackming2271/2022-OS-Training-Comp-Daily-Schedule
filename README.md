@@ -31,5 +31,7 @@ Rust
 - 学习 [关联类型 / 宏 / 线程] 等部分
 - 完成 rustlings 84/84
 
+## Day4
+配置实验环境, 了解github classroom, 了解实验开发流程, 今日提交通过lab0-0
 
 
