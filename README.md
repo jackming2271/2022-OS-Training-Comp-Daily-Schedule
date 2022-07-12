@@ -12,7 +12,7 @@
 
 |  | 周四 | 周五 | 周六 | 周天 | 周一 | 周二 | 周三 | 周报 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 07/07 ~ 07/13 | [Day1](#Day1) | [Day2](#Day2)  |  [Day3](#Day3)  | Day4 | Day5 | Day6 | Day7 | 第 1 周 | 
+| 07/07 ~ 07/13 | [Day1](#Day1) | [Day2](#Day2)  |  [Day3](#Day3)  | [Day4](#Day4) | [Day5](#Day5) | [Day6](#Day6) | Day7 | 第 1 周 | 
 | 07/14 ~ 07/20 | Day8 | Day9 | Day10 | Day11 | Day12 | Day13 | Day14 | 第 2 周 |
  
 
@@ -32,6 +32,10 @@ Rust
 - 完成 rustlings 84/84
 
 ## Day4
-配置实验环境, 了解github classroom, 了解实验开发流程, 今日提交通过lab0-0
+配置实验环境, 了解github classroom, 了解实验开发流程, 今日提交通过lab0-0 ， lab0-1
 
+## Day5
+工作太忙，今天暂时没搞，o(╥﹏╥)o
 
+## Day6
+学习指导书第三章及之前的部分，完成实验一 o(*￣︶￣*)o， 总结见[实验报告1](https://github.com/LearningOS/lab1-os3-zhaiqiming/blob/main/reports/lab1.md)
